@@ -15,6 +15,6 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ### Technologies
 * jupyter, Python 3
-* Pandas, Numpy, NLTK
+* Pandas, Numpy, NLTK, Scikit-learn, TensorFlow
 
 ## Project Description
