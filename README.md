@@ -26,11 +26,18 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 ### Word Embedding
 
-Bag of words - 'CountVectorizer'
+* Bag of words - 'CountVectorizer'
+* One-Hot - 'Binarizer'
+* TF-IDF - 'TfidfVectorizer'
 
-One-Hot - 'Binarizer'
+### Classifier
 
-TF-IDF - 'TfidfVectorizer'
+* SVM
+* MultinomialNB
+* ANN
+* LSTM
+* GRU
+* BERT
 
 ### Results
 
