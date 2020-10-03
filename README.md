@@ -11,7 +11,7 @@ The purpose of this project is to
 * NLP-based Data Preprocessing 
 * Word Vectorization (BoW, TF-IDF, and One-Hot Encoding) => Classifiers (SVM, MultinomialNB and Artificial Neural Network)
 * Deployed Transfer Learning: LSTM & GRU with GloVe embedding
-* Fine-tuned pre-trained BERT language model
+* Fine-tuned BERT language model
 
 ### Technologies
 * jupyter, Python 3
