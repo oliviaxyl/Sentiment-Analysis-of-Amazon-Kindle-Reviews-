@@ -36,11 +36,11 @@ TF-IDF - 'TfidfVectorizer'
 
 ### Results
 
-* One-Hot --> SVM (Baseline) -- > Test Accuracy: %
-* One-Hot --> MultinomialNB -- > Test Accuracy: %
-* Bag of Words --> MultinomialNB -- > Test Accuracy: %
-* TF-IDF --> MultinomialNB -- > Test Accuracy: %
-* TF-IDF - Artificial Neural Network -- > Test AcCuracy: %
+* One-Hot --> SVM (Baseline) -- > Test Accuracy: 61.82%
+* One-Hot --> MultinomialNB -- > Test Accuracy: 72.53%
+* Bag of Words --> MultinomialNB -- > Test Accuracy: 71.36%
+* TF-IDF --> MultinomialNB -- > Test Accuracy: 72.88%
+* TF-IDF - Artificial Neural Network -- > Test AcCuracy:71.01%
 * GloVe embedding - LSTM -- > Test Accuracy: %
 * GloVe embedding - GRU -- > Test Accuracy: %
 * Fin-tuning BERT -- > Test Accuracy: 76.72%
