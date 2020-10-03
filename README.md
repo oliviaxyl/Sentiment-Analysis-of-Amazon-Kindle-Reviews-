@@ -15,7 +15,7 @@ The purpose of this project is to
 
 ### Technologies
 * jupyter, Python 3
-* Pandas, Numpy, NLTK, Scikit-learn, TensorFlow
+* Pandas, Numpy, NLTK, Scikit-learn, TensorFlow, keras, PyTorch, seaborn, matplotlib
 
 ## Project Description
 
