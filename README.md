@@ -21,14 +21,7 @@ The purpose of this project is to
 
 ### Data 
 
-A small subset of dataset of product reviews from Amazon Kindle Store category in [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html). 
-
-https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks
-
-
-
-
-
+A small subset of dataset of product reviews from [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) in [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
 
 ## Reference
 
