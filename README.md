@@ -24,13 +24,11 @@ The purpose of this project is to
 
 A small subset of product reviews in [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) obtained from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
 
-### Data Processing
+### Data Pre-processing
 
 ### Work Flow
 
 ### Results
-
-
 
 *
 *
