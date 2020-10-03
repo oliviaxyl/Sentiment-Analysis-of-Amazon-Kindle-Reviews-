@@ -43,7 +43,7 @@ TF-IDF - 'TfidfVectorizer'
 * TF-IDF - Artificial Neural Network -- > Test AcCuracy:71.01%
 * GloVe embedding - LSTM -- > Test Accuracy: %
 * GloVe embedding - GRU -- > Test Accuracy: %
-* Fin-tuning BERT -- > Test Accuracy: 76.72%
+* Fine-tuning BERT -- > Test Accuracy: 76.72%
 
 ## Futrue Work
 
