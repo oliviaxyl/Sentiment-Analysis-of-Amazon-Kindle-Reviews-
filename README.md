@@ -21,28 +21,25 @@ The purpose of this project is to
 
 ## Reference
 
-Natural Language Processing: From Basics to using RNN and LSTM
+Understanding NLP Word Embeddings — Text Vectorization 
+https://towardsdatascience.com/understanding-nlp-word-embeddings-text-vectorization-1a23744f7223
 
+Natural Language Processing: From Basics to using RNN and LSTM 
 https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
 
-Word Embedding Explained, a comparison and code tutorial
-
+Word Embedding Explained, a comparison and code tutorial 
 https://medium.com/@dcameronsteinke/tf-idf-vs-word-embedding-a-comparison-and-code-tutorial-5ba341379ab0
 
-Understanding Word Embeddings with TF-IDF and GloVe
-
+Understanding Word Embeddings with TF-IDF and GloVe 
 https://towardsdatascience.com/understanding-word-embeddings-with-tf-idf-and-glove-8acb63892032
 
-Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
-
+Illustrated Guide to LSTM’s and GRU’s: A step by step explanation 
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
-Simple LSTM for text classification
-
+Simple LSTM for text classification 
 https://www.kaggle.com/kredy10/simple-lstm-for-text-classification
 
-NLP using GloVe Embeddings
-
+NLP using GloVe Embeddings 
 https://www.kaggle.com/madz2000/nlp-using-glove-embeddings-99-87-accuracy
 
 Transfer Learning for NLP: Fine-Tuning BERT for Text Classification
