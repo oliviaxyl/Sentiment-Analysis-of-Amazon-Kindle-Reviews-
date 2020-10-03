@@ -29,6 +29,8 @@ Amazon Review Data (2018)
 
 https://nijianmo.github.io/amazon/index.html
 
+[I'm an inline-style link](https://www.google.com)
+
 
 ## Reference
 
