@@ -28,13 +28,22 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 ### Work Flow
 
+Bag of words - 'CountVectorizer'
+
+One-Hot - 'Binarizer'
+
+TF-IDF - 'TfidfVectorizer'
+
 ### Results
 
-*
-*
-*
-*
-*
+* One-Hot --> SVM (Baseline) -- > Test Accuracy: %
+* One-Hot --> MultinomialNB -- > Test Accuracy: %
+* Bag of Words --> MultinomialNB -- > Test Accuracy: %
+* TF-IDF --> MultinomialNB -- > Test Accuracy: %
+* TF-IDF - Artificial Neural Network -- > Test AcCuracy: %
+* GloVe embedding - LSTM -- > Test Accuracy: %
+* GloVe embedding - GRU -- > Test Accuracy: %
+* Fin-tuning BERT -- > Test Accuracy: 76.72%
 
 ## Futrue Work
 
