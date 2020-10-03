@@ -14,6 +14,7 @@ The purpose of this project is to
 * Fine-tuned BERT language model
 
 ### Technologies
+
 * jupyter, Python 3
 * Pandas, Numpy, NLTK, Scikit-learn, TensorFlow, keras, PyTorch, seaborn, matplotlib
 
@@ -22,6 +23,20 @@ The purpose of this project is to
 ### Data 
 
 A small subset of product reviews in [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) obtained from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
+
+### Data Processing
+
+### Work Flow
+
+### Results
+
+
+
+*
+*
+*
+*
+*
 
 ## Reference
 
