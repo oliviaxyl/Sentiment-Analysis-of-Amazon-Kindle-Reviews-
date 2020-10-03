@@ -5,13 +5,13 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to 
 
 ### Methods Used
 * NLP-based Data Preprocessing 
-* Built Word Vectorization (BoW, TF-IDF, and One-hot coding)
-* Applied Classifiers (SVM, MultinomialNB and Artificial Neural Network)
+* Built Word Vectorization (BoW, TF-IDF, and One-hot coding) and applied Classifiers (SVM, MultinomialNB and Artificial Neural Network)
 * Deployed Transfer Learning: LSTM & GRU with GloVe embedding
+* Fine-tuned pre-trained BERT language model
 
 ### Technologies
 * jupyter, Python 3
