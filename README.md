@@ -34,7 +34,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 * SVM
 * MultinomialNB
-* ANN
+* ANR
 * RNN: LSTM & GRU
 * BERT
 
