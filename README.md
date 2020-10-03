@@ -34,7 +34,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 * SVM
 * MultinomialNB
-* ANR
+* Artificial Neural Network
 * RNN: LSTM & GRU
 * BERT
 
