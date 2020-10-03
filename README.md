@@ -38,6 +38,8 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 *
 *
 
+## Futrue Work
+
 ## Reference
 
 Understanding NLP Word Embeddings — Text Vectorization 
