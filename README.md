@@ -19,6 +19,10 @@ The purpose of this project is to
 
 ## Project Description
 
+### Data 
+
+
+
 ## Reference
 
 Understanding NLP Word Embeddings — Text Vectorization 
