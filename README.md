@@ -24,6 +24,16 @@ The purpose of this project is to help customer service team to get the “feeli
 
 A small subset of product reviews in [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) obtained from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
 
+### Data Pre-processing
+
+* Convert rating 1 & 2 to 'negative', 3 to 'Neutral', and 4 & 5 to 'Positive'.
+* Under-sample 'Positive', 'Neutral', and 'negative' sentiment ratio to 1:1:1.
+* Replace contraction (eg. "I'm" -> "I am", "let's" -> "let us", "shouldn't've" -> "should not have")
+* Removed stopwords (eg. 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how')
+* Find POS tag -> Lemmatize tokens (eg. ‘Caring’ -> ‘Care’, 'better' -> 'good',  'asked' -> 'ask' )
+* Remove URL ('http\S+')
+* Remove emoji -> (eg.:joy:)
+
 ### Word Embedding
 
 * Bag of words - 'CountVectorizer'
@@ -50,7 +60,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * One-Hot --> MultinomialNB -- > Test Accuracy: 72.53%
 * Bag of Words --> MultinomialNB -- > Test Accuracy: 71.36%
 * TF-IDF --> MultinomialNB -- > Test Accuracy: 72.88%
-* TF-IDF - Artificial Neural Network -- > Test AcCuracy: 71.01%
+* TF-IDF - Artificial Neural Network -- > Test Accuracy: 71.01%
 * GloVe embedding - LSTM -- > Test Accuracy: %
 * GloVe embedding - GRU -- > Test Accuracy: %
 * Fine-tuning BERT -- > Test Accuracy: 76.72%
