@@ -24,7 +24,7 @@ The purpose of this project is to help customer service team to get the “feeli
 
 A small subset of product reviews in [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) obtained from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
 
-### Data Pre-processing
+### Text Processing
 
 * Convert rating 1 & 2 to 'Negative', 3 to 'Neutral', and 4 & 5 to 'Positive'.
 * Under-sample 'Positive', 'Neutral', and 'Negative' sentimens ratio to 1:1:1.
