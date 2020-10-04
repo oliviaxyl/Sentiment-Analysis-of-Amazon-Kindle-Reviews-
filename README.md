@@ -32,7 +32,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * Removed stopwords (eg. 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how')
 * Find POS tag -> Lemmatize tokens (eg. ‘Caring’ -> ‘Care’, 'better' -> 'good',  'asked' -> 'ask' )
 * Remove URL ('http\S+')
-* Remove emoji -> (eg. :nerd_face: )
+* Remove emoji (eg. :nerd_face: )
 
 ### Word Embedding
 
