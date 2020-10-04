@@ -55,6 +55,8 @@ For BERT:
 
 * SVM
 * MultinomialNB
+
+### Neural Network
 * Artificial Neural Network
 
 ### RNN
