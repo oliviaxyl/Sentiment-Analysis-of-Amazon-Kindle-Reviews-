@@ -39,9 +39,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * Train: 90% (5 folds cross-validation)
 * Test: 10% 
 
-or
-
-BERT:
+For BERT:
 
 * Train: 80%
 * Validation: 10%
