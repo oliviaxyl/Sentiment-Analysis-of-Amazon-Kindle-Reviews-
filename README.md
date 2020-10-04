@@ -57,8 +57,8 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * Bag of Words & MultinomialNB: 71.36%
 * TF-IDF & MultinomialNB: 72.88%
 * TF-IDF & Artificial Neural Network: 71.01%
-* GloVe embedding & LSTM: %
-* GloVe embedding & GRU: %
+* GloVe Embedding & LSTM: %
+* GloVe Embedding & GRU: %
 * Fine-tuning BERT: 76.72%
 
 ## Reference
