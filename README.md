@@ -50,7 +50,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * One-Hot --> MultinomialNB -- > Test Accuracy: 72.53%
 * Bag of Words --> MultinomialNB -- > Test Accuracy: 71.36%
 * TF-IDF --> MultinomialNB -- > Test Accuracy: 72.88%
-* TF-IDF - Artificial Neural Network -- > Test AcCuracy:71.01%
+* TF-IDF - Artificial Neural Network -- > Test AcCuracy: 71.01%
 * GloVe embedding - LSTM -- > Test Accuracy: %
 * GloVe embedding - GRU -- > Test Accuracy: %
 * Fine-tuning BERT -- > Test Accuracy: 76.72%
