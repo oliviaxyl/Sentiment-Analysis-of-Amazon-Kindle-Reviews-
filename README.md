@@ -53,21 +53,13 @@ For BERT:
 
 ### Classifiers
 
-#### Machine Learning
+* Machine Learning: SVM, MultinomialNB
 
-* SVM
-* MultinomialNB
+* Neural Network: ANN
 
-#### Neural Network
-* Artificial Neural Network
+* RNN: LSTM, GRU
 
-#### RNN
-* LSTM 
-* GRU
-
-#### Language Model
-
-* BERT
+* Language Model: BERT
 
 ### Results
 
