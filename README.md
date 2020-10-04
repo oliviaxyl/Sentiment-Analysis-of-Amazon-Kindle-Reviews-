@@ -27,7 +27,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 ### Data Pre-processing
 
 * Convert rating 1 & 2 to 'negative', 3 to 'Neutral', and 4 & 5 to 'Positive'.
-* Under-sample 'Positive', 'Neutral', and 'negative' sentiment ratio to 1:1:1.
+* Under-sample 'Positive', 'Neutral', and 'Negative' sentiment ratio to 1:1:1.
 * Replace contraction (eg. "I'm" -> "I am", "let's" -> "let us", "shouldn't've" -> "should not have")
 * Removed stopwords (eg. 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how')
 * Find POS tag -> Lemmatize tokens (eg. ‘Caring’ -> ‘Care’, 'better' -> 'good',  'asked' -> 'ask' )
