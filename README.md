@@ -30,12 +30,18 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * One-Hot - 'Binarizer'
 * TF-IDF - 'TfidfVectorizer'
 
-### Classifier
+### Classifiers
 
 * SVM
 * MultinomialNB
 * Artificial Neural Network
-* RNN: LSTM & GRU
+
+### RNN
+* LSTM 
+* GRU
+
+### Language Model
+
 * BERT
 
 ### Results
