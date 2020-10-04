@@ -5,7 +5,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The purpose of this project is to 
+The purpose of this project is to help customer service team to get the “feeling of a message" without reading every single word. If the customer reveiw is detected as “Negative”, the agent can immediately assign the ticket to a supervisor who can handle it. This saves the agent from needing to read the entire ticket and lets them focus their time and effort on solving issues within their capabilities. This is an excellent way for customer service teams to save time with AI technology.
 
 ### Methods Used
 * NLP-based Data Preprocessing 
