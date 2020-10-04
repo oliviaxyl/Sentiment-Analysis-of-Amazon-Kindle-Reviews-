@@ -34,17 +34,6 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * Remove URL ('http\S+')
 * Remove emoji -> (eg. :joy: , :kissing_heart: , :star_struck:)
 
-### Train Test Split
-
-* Train: 90% (5 folds cross-validation)
-* Test: 10% 
-
-For BERT:
-
-* Train: 80%
-* Validation: 10%
-* Test: 10% 
-
 ### Word Embedding
 
 * Bag of words - 'CountVectorizer'
