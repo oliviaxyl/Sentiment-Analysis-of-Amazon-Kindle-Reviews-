@@ -50,7 +50,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 * Language Model: BERT
 
-### Results
+### Test Accuracy
 
 * One-Hot --> SVM (Baseline) -- > Test Accuracy: 61.82%
 * One-Hot --> MultinomialNB -- > Test Accuracy: 72.53%
