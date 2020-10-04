@@ -61,8 +61,6 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * GloVe embedding - GRU -- > Test Accuracy: %
 * Fine-tuning BERT -- > Test Accuracy: 76.72%
 
-## Futrue Work
-
 ## Reference
 
 Understanding NLP Word Embeddings — Text Vectorization 
