@@ -52,14 +52,14 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 ### Test Accuracy
 
-* One-Hot & SVM (Baseline) -- > 61.82%
-* One-Hot & MultinomialNB -- > 72.53%
-* Bag of Words & MultinomialNB -- > 71.36%
-* TF-IDF & MultinomialNB -- > 72.88%
-* TF-IDF & Artificial Neural Network -- > 71.01%
-* GloVe embedding & LSTM -- > %
-* GloVe embedding & GRU -- > %
-* Fine-tuning BERT -- > 76.72%
+* One-Hot & SVM (Baseline): 61.82%
+* One-Hot & MultinomialNB: 72.53%
+* Bag of Words & MultinomialNB: 71.36%
+* TF-IDF & MultinomialNB: 72.88%
+* TF-IDF & Artificial Neural Network: 71.01%
+* GloVe embedding & LSTM: %
+* GloVe embedding & GRU: %
+* Fine-tuning BERT: 76.72%
 
 ## Reference
 
