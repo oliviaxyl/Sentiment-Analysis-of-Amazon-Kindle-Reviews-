@@ -8,9 +8,9 @@
 The purpose of this project is to help customer service team to get the “feeling of a message" without reading every single word. This saves the agent from needing to read the entire reviews and let them focus their time and effort on solving issues within their capabilities. 
 
 ### Methods Used
-* NLP-based Data Preprocessing 
+* Text preprocessing 
 * Word Vectorization (BoW, TF-IDF, and One-Hot Encoding) => Classifiers (SVM, MultinomialNB and Artificial Neural Network)
-* Deployed Transfer Learning: LSTM & GRU with GloVe embedding
+* Transfer Learning: LSTM & GRU with GloVe embedding
 * Fine-tuned BERT language model
 
 ### Technologies
