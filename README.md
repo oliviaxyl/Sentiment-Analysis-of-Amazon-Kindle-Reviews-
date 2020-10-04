@@ -15,7 +15,7 @@ The purpose of this project is to help customer service team to get the “feeli
 
 ### Technologies
 
-* jupyter, Python 3
+* Jupyter, Python 3
 * Pandas, Numpy, NLTK, Scikit-learn, TensorFlow, keras, PyTorch, seaborn, matplotlib
 
 ## Project Description
