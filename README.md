@@ -40,7 +40,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * One-Hot - 'Binarizer'
 * TF-IDF - 'TfidfVectorizer'
 
-### Classifiers
+### Text Classifiers
 
 * Machine Learning: SVM, MultinomialNB
 
