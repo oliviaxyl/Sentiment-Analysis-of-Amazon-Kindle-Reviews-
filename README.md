@@ -52,7 +52,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 ### Test Accuracy
 
-* One-Hot & LinerSVC (Baseline): 62.51%
+* One-Hot & LinearSVC (Baseline): 62.51%
 * One-Hot & MultinomialNB: 70.9%
 * Bag of Words & MultinomialNB: 70.08%
 * TF-IDF & MultinomialNB: 71.25%
