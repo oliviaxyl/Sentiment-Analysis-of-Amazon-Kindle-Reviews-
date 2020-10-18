@@ -26,13 +26,13 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 
 ### Text Processing
 
-* Convert ratings to sentiments: 1 & 2 - 'Negative', 3 - 'Neutral', and 4 & 5 - 'Positive'.
-* Under-sample the ratio of 'Positive', 'Neutral', and 'Negative' sentiments to 1:1:1.
-* Replace contraction (eg. "I'm" -> "I am", "let's" -> "let us", "shouldn't've" -> "should not have")
+* Converted ratings to sentiments: 1 & 2 - 'Negative', 3 - 'Neutral', and 4 & 5 - 'Positive'.
+* Under-sampled the ratio of 'Positive', 'Neutral', and 'Negative' sentiments to 1:1:1.
+* Replaced contraction (eg. "I'm" -> "I am", "let's" -> "let us", "shouldn't've" -> "should not have")
 * Removed stopwords (eg. 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how')
-* Find POS tag -> Lemmatize tokens (eg. ‘Caring’ -> ‘Care’, 'better' -> 'good',  'asked' -> 'ask' )
-* Remove URL ('http\S+')
-* Remove emoji (eg. :nerd_face: )
+* Found POS tag -> Lemmatize tokens (eg. ‘Caring’ -> ‘Care’, 'better' -> 'good',  'asked' -> 'ask' )
+* Removed URL ('http\S+')
+* Removed emoji (eg. :nerd_face: )
 
 ### Word Embedding
 
