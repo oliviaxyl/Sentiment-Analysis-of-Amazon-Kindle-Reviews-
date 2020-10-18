@@ -59,7 +59,7 @@ A small subset of product reviews in [Amazon reviews: Kindle Store Category](htt
 * TF-IDF & Artificial Neural Network: 68.8%
 * GloVe Embedding & LSTM: 66.71%
 * GloVe Embedding & GRU: 65.89%
-* Fine-tuning BERT: 76.72% (94.76% - with neutral sentiment reviews removed)
+* Fine-tuning BERT: 76.72% (94.76% - with 'Neutral' sentiment reviews removed)
 
 ## Reference
 
