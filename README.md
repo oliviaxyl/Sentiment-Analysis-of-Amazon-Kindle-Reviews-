@@ -22,7 +22,7 @@ The purpose of this project is to help customer service team to get the “feeli
 
 ### Data 
 
-A small subset of product reviews in [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) obtained from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
+A small subset of product reviews [Amazon reviews: Kindle Store Category](https://www.kaggle.com/bharadwaj6/kindle-reviews/notebooks) on Kaggle obtained from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html).
 
 ### Text Processing
 
