@@ -44,9 +44,7 @@ A small subset of product reviews [Amazon reviews: Kindle Store Category](https:
 
 * Machine Learning: SVM, MultinomialNB
 
-* Simple Neural Network: ANN
-
-* RNN: LSTM, GRU
+* Neural Network: ANN, LSTM, GRU
 
 * Language Model: BERT
 
